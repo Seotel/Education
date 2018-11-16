@@ -15,3 +15,14 @@ D:\git\Education\Novice\NoviceConsole\obj\Debug\NoviceConsole.pdb
 D:\git\Education\Novice\NoviceConsole\bin\Debug\JintLibrary.dll
 D:\git\Education\Novice\NoviceConsole\bin\Debug\Jint.dll
 D:\git\Education\Novice\NoviceConsole\bin\Debug\JintLibrary.pdb
+C:\AsDriveD\www\git\Education\Novice\NoviceConsole\obj\Debug\NoviceConsole.exe
+C:\AsDriveD\www\git\Education\Novice\NoviceConsole\obj\Debug\NoviceConsole.pdb
+C:\AsDriveD\www\git\Education\Novice\NoviceConsole\bin\Debug\NoviceConsole.exe
+C:\AsDriveD\www\git\Education\Novice\NoviceConsole\bin\Debug\NoviceConsole.pdb
+C:\AsDriveD\www\git\Education\Novice\NoviceConsole\bin\Debug\JintLibrary.dll
+C:\AsDriveD\www\git\Education\Novice\NoviceConsole\bin\Debug\Novice.dll
+C:\AsDriveD\www\git\Education\Novice\NoviceConsole\bin\Debug\Jint.dll
+C:\AsDriveD\www\git\Education\Novice\NoviceConsole\bin\Debug\fastJSON.dll
+C:\AsDriveD\www\git\Education\Novice\NoviceConsole\bin\Debug\JintLibrary.pdb
+C:\AsDriveD\www\git\Education\Novice\NoviceConsole\bin\Debug\Novice.pdb
+C:\AsDriveD\www\git\Education\Novice\NoviceConsole\obj\Debug\NoviceConsole.csprojResolveAssemblyReference.cache
