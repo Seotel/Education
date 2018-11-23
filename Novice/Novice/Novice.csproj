@@ -42,6 +42,7 @@
     <Compile Include="Example_1\LINQ.cs" />
     <Compile Include="Example_1\Original.cs" />
     <Compile Include="Example_1\Refactored.cs" />
+    <Compile Include="LINQ\join_1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
